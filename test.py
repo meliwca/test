@@ -17,7 +17,3 @@ while True:
         print(f"{number} is odd 🔢")
         count_odd += 1
 
-print("\n--- نتیجه نهایی ---")
-print(f"تعداد اعداد زوج: {count_even}")
-print(f"تعداد اعداد فرد: {count_odd}")
-print(" end 👋")
